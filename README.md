@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manojg555
 - 👀 I’m interested in linux
-- 🌱 I’m currently learning devops
+- 🌱 I’m currently working on AWS SAM
 - 💞️ I’m looking to collaborate on aws
 - 📫 How to reach me ...
 
